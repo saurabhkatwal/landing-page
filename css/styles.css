@@ -97,6 +97,7 @@ body{
     }
     .t-1,.t-2,.t-3{
         max-width: 300px;
+        min-width:200px;
     }
     .desc-1,.desc-2{
         padding: 30px 20%;
